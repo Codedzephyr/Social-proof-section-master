@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Codedzephyr/faq-accordion-card-main)
-- Live Site URL: [Add live site URL here](https://app.netlify.com/sites/serene-borg-ad184d/overview)
+- Solution URL: [ solution URL ](https://github.com/Codedzephyr/Social-proof-section-master)
+- Live Site URL: [ live site URL](https://nostalgic-wilson-24c329.netlify.app/)
 
 ## My process
 
