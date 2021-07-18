@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@200&display=swap");
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -55,12 +57,12 @@ main {
 }
 
 .heading {
-  font-family: Spartan;
+  font-family: "Spartan", sans-serif;
   color: hsl(300, 43%, 22%);
 }
 
 .paragraph {
-  font-family: Spartan;
+  font-family: "Spartan", sans-serif;
   color: hsl(303, 10%, 53%);
   padding-top: 15px;
   font-size: 15px;
@@ -141,20 +143,20 @@ main {
 
 .paragraph2 {
   color: hsl(0, 0%, 100%);
-  font-family: Spartan;
+  font-family: "Spartan", sans-serif;
   font-size: 15px;
   font-weight: 700;
 }
 .paragraph3 {
   color: hsl(303, 10%, 53%);
-  font-family: Spartan;
+  font-family: "Spartan", sans-serif;
   padding-top: 5px;
   font-size: 15px;
 }
 
 .paragraph4 {
   color: hsl(0, 0%, 100%);
-  font-family: Spartan;
+  font-family: "Spartan", sans-serif;
   font-size: 15px;
   font-weight: 400;
   padding: 20px 0px;
